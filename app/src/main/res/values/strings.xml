@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Live_easy</string>
+    <string-array name="grades">
+        <item>English</item>
+        <item>Hindi</item>
+        <item>Marathi</item>
+        <item>Punjabi</item>
+        <item>Bengali </item>
+        <item>Portuguese </item>
+        <item>Urdu </item>
+    </string-array>
+</resources>
