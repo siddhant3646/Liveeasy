@@ -6,4 +6,15 @@
     android:layout_height="match_parent"
     tools:context=".transporter">
 
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="413dp"
+        android:layout_height="129dp"
+        android:text="Transporter Activity"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:gravity="center"
+        android:textSize="40dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>
